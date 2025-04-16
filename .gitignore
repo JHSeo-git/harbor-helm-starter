@@ -1,0 +1,15 @@
+.DS_Store
+
+*.crt
+*.pem
+*.key
+
+*.tar.gz
+*.tgz
+*.tar
+*.tar.bz2
+*.tar.xz
+*.tar.lzma
+*.tar.wim
+
+harbor
